@@ -40,7 +40,7 @@ dependency 'es_extended'
 
 export 'GeneratePlate'
 
-Rempalcer **"@oxmysql/lib/MySQL.lua",**  par **"@es_extended/modules/MySQL/lib/MySQL.lua",**
+Rempalcer "@oxmysql/lib/MySQL.lua",**  par **"@es_extended/modules/MySQL/lib/MySQL.lua",
 
 server_scripts {
     '@es_extended/modules/MySQL/lib/MySQL.lua',
