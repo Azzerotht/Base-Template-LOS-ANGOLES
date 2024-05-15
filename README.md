@@ -38,9 +38,11 @@ client_scripts {
 
 dependency 'es_extended'
 
-export 'GeneratePlate' ```
+export 'GeneratePlate'
 
-```server_scripts {
+Rempalcer **"@oxmysql/lib/MySQL.lua",**  par **"@es_extended/modules/MySQL/lib/MySQL.lua",**
+
+server_scripts {
     '@es_extended/modules/MySQL/lib/MySQL.lua',
     '@es_extended/locale.lua',
     'locales/*.lua',
