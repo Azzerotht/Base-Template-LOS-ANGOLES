@@ -48,4 +48,4 @@ server_scripts {
     'locales/*.lua',
     'config.lua',
     'server/*.lua'
-}```
+}
