@@ -1,4 +1,4 @@
-lien de téléchargement : https://www.mediafire.com/file/nbsoerfqowxfn6g/TEMPLATE_LA_0.0.1.zip/file
+lien de téléchargement : https://www.mediafire.com/file/tg2sw3kze39dvq0/TEMPLATE_LA_0.0.2.zip/file
 
 Pour les lignes MYSQL dans les fxmanifest
 
